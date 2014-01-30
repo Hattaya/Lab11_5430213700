@@ -1,6 +1,6 @@
 <?php 
 	phpinfo();
-	echo '<p>My name is Jutarat</p>';
+	echo '<p>My name is Warakorn</p>';
 	
  ?>
 	
